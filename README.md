@@ -1,5 +1,41 @@
 # FLUX.1-Krea [dev]: The 'Opinionated' AI Model Redefining Image Generation
 
+This repository contains comprehensive documentation and analysis of **FLUX.1-Krea [dev]**, an advanced 12-billion parameter text-to-image model
+representing a unique collaboration between Black Forest Labs (BFL) and Krea AI.
+
+## About FLUX.1-Krea [dev]
+
+FLUX.1-Krea [dev] is a large-scale, open-weights generative model engineered for creating high-fidelity visual content. Built on a rectified flow transformer architecture, it offers both text-to-image and image-to-image generation capabilities with a distinctive "opinionated" aesthetic that prioritizes photorealism and artistic quality over the generic "AI look."
+
+**Key Features**
+
+- **12B Parameter Model**: Built on FLUX.1 [dev] architecture with full ecosystem compatibility
+- **Opinionated Aesthetic**: Specifically trained to avoid common AI artifacts and deliver photorealistic results
+- **Drop-in Replacement**: Fully compatible with existing FLUX.1 [dev] workflows and tools
+- **Multiple Access Options**: Available through APIs (fal.ai, Replicate, Together AI), local deployment (ComfyUI, diffusers), and web interface
+- **Responsible AI**: Comprehensive safety measures and content filtering
+
+**Model Architecture**
+
+- **Base**: Black Forest Labs' flux-dev-raw model
+- **Training**: Two-stage post-training with supervised fine-tuning and RLHF
+- **Optimization**: Guidance distillation for enhanced fine-tuning capabilities
+- **Compatibility**: Works seamlessly with FLUX.1 [dev] ecosystem
+
+**License & Usage**
+
+- **Non-commercial**: Free for personal research and experimentation
+- **Commercial**: Requires license purchase ($999/month for 100K images)
+- **API Access**: Available through partner platforms with pay-as-you-go pricing
+
+**Community & Resources**
+
+- Join the discussion on [Hacker News](https://news.ycombinator.com/item?id=44745555)
+- Explore community workflows on [Reddit](https://www.reddit.com/r/StableDiffusion/)
+- View examples on [Krea Gallery](https://www.krea.ai/feed)
+
+**Note**: This repository serves as a comprehensive documentation resource for the FLUX.1-Krea [dev] model. For the actual model implementation and code,please visit the official [Black Forest Labs GitHub](https://github.com/black-forest-labs/flux) and [Hugging Face repository](https://huggingface.co/black-forest-labs/FLUX.1-Krea-dev).
+
 ## **Part 1: Foundational Overview: A New Paradigm in Aesthetic AI**
 
 The field of generative artificial intelligence is characterized by rapid advancement, with new models frequently pushing the boundaries of technical capability. Within this dynamic landscape, the release of FLUX.1-Krea \[dev\] represents a noteworthy development, not only for its technical specifications but for the strategic philosophy underpinning its creation. This model emerges from a unique collaboration and is positioned with a distinct, curated identity, signaling a potential maturation in the market for creative AI tools.
