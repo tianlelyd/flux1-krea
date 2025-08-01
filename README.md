@@ -28,12 +28,6 @@ FLUX.1-Krea [dev] is a large-scale, open-weights generative model engineered for
 - **Commercial**: Requires license purchase ($999/month for 100K images)
 - **API Access**: Available through partner platforms with pay-as-you-go pricing
 
-**Community & Resources**
-
-- Join the discussion on [Hacker News](https://news.ycombinator.com/item?id=44745555)
-- Explore community workflows on [Reddit](https://www.reddit.com/r/StableDiffusion/)
-- View examples on [Krea Gallery](https://www.krea.ai/feed)
-
 **Note**: This repository serves as a comprehensive documentation resource for the FLUX.1-Krea [dev] model. For the actual model implementation and code,please visit the official [Black Forest Labs GitHub](https://github.com/black-forest-labs/flux) and [Hugging Face repository](https://huggingface.co/black-forest-labs/FLUX.1-Krea-dev).
 
 ## **Part 1: Foundational Overview: A New Paradigm in Aesthetic AI**
